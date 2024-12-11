@@ -1,3 +1,2 @@
 openai
 streamlit
-g4f
